@@ -1,8 +1,26 @@
-# React + Vite
+🎬 Movie Browser App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application to browse movies fetched from a movie API using an authentication token.
+The app allows users to view trending titles, explore details, and save favourite movies.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fetch movie data from a secured API using token-based authentication
+
+Browse movies with posters, ratings, and descriptions
+
+Add/remove movies from Favourites list
+
+Responsive UI and clean layout
+
+Uses modern React concepts
+
+🛠️ Tech Stack
+
+React
+
+Fetch / Axios
+
+React Router
+
+CSS
